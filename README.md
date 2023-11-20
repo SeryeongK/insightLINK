@@ -29,8 +29,6 @@
 
 현장 발표영상 : [바로가기](https://youtu.be/oumGWpIAhG0)
 
-(맨 위로)
-
 ## 서비스 소개
 
 ### insightLINK는 이런 고민에서 시작되었습니다.
@@ -65,8 +63,6 @@
 ### 6. 카드 삭제 및 수정
 - 카드(스크린샷)을 삭제하거나 수정할 수 있습니다. 
 
-([맨 위로](https://github.com/insight-LINK/insightLINK/#readme-top)) 
-
 ## DB 설계
 ![image](https://github.com/insight-LINK/insightLINK/assets/67596636/3becad80-45e5-49f0-b2f1-1f123492597b)
 
@@ -76,5 +72,3 @@
 
 ## 프로젝트 포스터
 ![insightLINK-포스터_복사본-_1_-001](https://github.com/insight-LINK/insightLINK/assets/67596636/4cf774ce-dbe3-4203-af56-843d010ce6d8)
-
-([맨 위로](https://github.com/insight-LINK/insightLINK/#readme-top))
